@@ -1,5 +1,5 @@
 # AsyncTestHelper
-The AsyncTestHelper helps you with executing asynchronous requests on after another within your unit tests.
+The AsyncTestHelper helps you with executing asynchronous requests one after another within your unit tests.
 
 ## Example
 
